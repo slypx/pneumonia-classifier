@@ -74,9 +74,9 @@ These images show **where the model focuses** when making predictions.
 
 #### Image 1
 
-```
+
 <img width="470" height="470" alt="IM-0122-0001_gradcam" src="https://github.com/user-attachments/assets/60b11aa8-f34b-4571-8b1c-f382023fc3d8" />
-```
+
 
 ![Pneumonia Case 1](images/IM-0122-0001_gradcam.png)
 
@@ -86,9 +86,9 @@ These images show **where the model focuses** when making predictions.
 
 #### Image 2
 
-```
+
 <img width="470" height="470" alt="person1_bacteria_1_gradcam" src="https://github.com/user-attachments/assets/71f577b5-ac41-4de4-81a5-6183dfd62e75" />
-```
+
 
 ![Pneumonia Case 2](images/person1_bacteria_1_gradcam.png)
 
@@ -98,9 +98,9 @@ These images show **where the model focuses** when making predictions.
 
 #### Image 3
 
-```
+
 <img width="470" height="470" alt="person2_bacteria_3_gradcam" src="https://github.com/user-attachments/assets/1090625e-9027-4de9-9cd6-5f63e78258e5" />
-```
+
 
 ![Pneumonia Case 3](images/person2_bacteria_3_gradcam.png)
 
@@ -112,9 +112,9 @@ These images show **where the model focuses** when making predictions.
 
 #### Image 4
 
-```
+
 <img width="470" height="470" alt="person124_virus_247_gradcam" src="https://github.com/user-attachments/assets/d9a07ea2-eb36-4f59-a16c-4998e0afa02c" />
-```
+
 
 ![Pneumonia Case 4](images/person124_virus_247_gradcam.png)
 
@@ -126,9 +126,9 @@ These images show **where the model focuses** when making predictions.
 
 #### Image 5
 
-```
+
 <img width="470" height="470" alt="IM-0140-0001_gradcam" src="https://github.com/user-attachments/assets/4a74c715-0f4e-40d6-8c85-ad79556bc2ac" />
-```
+
 
 ![Normal Case 1](images/IM-0140-0001_gradcam.png)
 
@@ -138,9 +138,9 @@ These images show **where the model focuses** when making predictions.
 
 #### Image 6
 
-```
+
 <img width="470" height="470" alt="IM-0210-0001_gradcam" src="https://github.com/user-attachments/assets/d8d97da0-7132-4ab6-9022-8b8534f5a6ea" />
-```
+
 
 ![Normal Case 2](images/IM-0210-0001_gradcam.png)
 
