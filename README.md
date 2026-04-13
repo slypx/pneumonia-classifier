@@ -82,6 +82,7 @@ These images show **where the model focuses** when making predictions.
 
 ➡️ Strong activation in a localized lung region, consistent with pneumonia infection.
 
+
 ---
 
 #### Image 2
@@ -94,6 +95,7 @@ These images show **where the model focuses** when making predictions.
 
 ➡️ Activation concentrated in the lower lung, typical of bacterial pneumonia.
 
+
 ---
 
 #### Image 3
@@ -105,6 +107,7 @@ These images show **where the model focuses** when making predictions.
 
 
 ➡️ Focused attention on one side of the lung, indicating infection.
+
 
 ---
 
@@ -120,6 +123,7 @@ These images show **where the model focuses** when making predictions.
 
 ➡️ Diffuse activation across lung regions, often associated with viral pneumonia.
 
+
 ---
 
 ### 🟢 Normal Cases
@@ -134,6 +138,7 @@ These images show **where the model focuses** when making predictions.
 
 ➡️ No strong localized hotspots, indicating normal lung structure.
 
+
 ---
 
 #### Image 6
@@ -145,6 +150,7 @@ These images show **where the model focuses** when making predictions.
 
 
 ➡️ More uniform activation, suggesting absence of pneumonia.
+
 
 ---
 
