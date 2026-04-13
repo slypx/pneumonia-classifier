@@ -111,7 +111,7 @@ These images show **where the model focuses** when making predictions.
 
 ---
 
-### 🟡 Viral / Diffuse Pattern
+### Viral / Diffuse Pattern
 
 #### Image 4
 
@@ -126,7 +126,7 @@ These images show **where the model focuses** when making predictions.
 
 ---
 
-### 🟢 Normal Cases
+### Normal Cases
 
 #### Image 5
 
