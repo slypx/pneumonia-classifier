@@ -181,7 +181,7 @@ utils/config.py
 ### 1. Clone repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/pneumonia-classifier.git
+git clone https://github.com/slypx/pneumonia-classifier.git
 cd pneumonia-classifier
 ```
 
